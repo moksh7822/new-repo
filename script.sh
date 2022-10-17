@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-count=12
+count=123
 
 if [ "${count}" -gt 9 -a "${count}" -lt 11 ]
 then
